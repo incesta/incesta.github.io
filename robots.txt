@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://incesta.github.io/sitemap.txt
